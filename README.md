@@ -4,6 +4,8 @@ As companies strive to decarbonize their operations and plastic waste vexes supp
 
 We developed an automated plastic footprint calculator to help consumer brands to measure, reduce and communicate every aspect of their organization’s plastic footprint.
 
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzIyNWI1YmZhN2YwOWFlYmIzYTM2ODIxOTc1ODhlZjQ3MzExMmY2ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/BkpU6IyouVnXQDI0si/giphy.gif)
+
 Here is how it works:
 
 1. Upload Your Data
